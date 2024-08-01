@@ -88,7 +88,7 @@ const App = () => {
           <SearchForm onSearch={handleSearch} />
         </Col>
       </Row>
-      <Row className="my-5">
+      <Row className="my-3">
         <Col>
           <RepoList
             repos={repos}
