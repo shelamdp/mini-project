@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-create .env and copy the content env.sample to .env, npm i, npm start
+1. Create a .env file and copy the content from env.sample to .env.
+2. Run npm i to install dependencies.
+3. Run npm start to start the application.
 
 ## Available Scripts
 
